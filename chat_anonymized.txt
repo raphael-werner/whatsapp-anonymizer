@@ -1,109 +1,109 @@
-01.01.24, 09:00 - me:xxxxxxxxxxxxxxxxxxxxxxxxxxxx
-01.01.24, 09:01 - you:xxxxxxxxxxxxxxxxxxxxxxxxxxxx
-01.01.24, 09:02 - me:xxxxxxxxxxxxxxxxxxx
-01.01.24, 09:03 - you:xxxxxxxxxxxxxxxxxxxxxxxxxxx
-01.01.24, 09:04 - me:xxxxxxxxxxxxxxxxxxxxxxxxx
-01.01.24, 09:05 - you:xxxxxxxxxxxxxxxxxxx
-01.01.24, 09:06 - me:xxxxxxxxxxxxxxxxx
-01.01.24, 09:07 - you:xxxxxxxxxxxxxxxxxxxxx
-01.01.24, 09:08 - me:xxxxxxxxxxxxxxxxxxxxxxx
-01.01.24, 09:09 - you:xxxxxxxxxxx
+01.01.24, 09:00 - me: xxxxxxxxxxxxxxxxxxxxxxxxxxx
+01.01.24, 09:01 - you: xxxxxxxxxxxxxxxxxxxxxxxxxxx
+01.01.24, 09:02 - me: xxxxxxxxxxxxxxxxxx
+01.01.24, 09:03 - you: xxxxxxxxxxxxxxxxxxxxxxxxxx
+01.01.24, 09:04 - me: xxxxxxxxxxxxxxxxxxxxxxxx
+01.01.24, 09:05 - you: xxxxxxxxxxxxxxxxxx
+01.01.24, 09:06 - me: xxxxxxxxxxxxxxxx
+01.01.24, 09:07 - you: xxxxxxxxxxxxxxxxxxxx
+01.01.24, 09:08 - me: xxxxxxxxxxxxxxxxxxxxxx
+01.01.24, 09:09 - you: xxxxxxxxxx
 
-01.01.24, 10:00 - me:xxxxxxxxxxxxxxxxxxxx
-01.01.24, 10:01 - you:xxxxxxxxxxxxxxxxxxxxxx
-01.01.24, 10:02 - me:xxxxxxxxxxxxxxxxxxxxxxx
-01.01.24, 10:03 - you:xxxxxxxxxxxx
-01.01.24, 10:04 - me:xxxxxxxxxxxxxxxxxxxxxx
-01.01.24, 10:05 - you:xxxxxxxxxxxxx
-01.01.24, 10:06 - me:xxxxxxxxxxxxxx
-01.01.24, 10:07 - you:xxxxxxxxxxxxxxxx
-01.01.24, 10:08 - me:xxxxxxxxxxxxxxxxxxxxxx
-01.01.24, 10:09 - you:xxxxxxxxxxxxxxxxxxxxxxx
+01.01.24, 10:00 - me: xxxxxxxxxxxxxxxxxxx
+01.01.24, 10:01 - you: xxxxxxxxxxxxxxxxxxxxx
+01.01.24, 10:02 - me: xxxxxxxxxxxxxxxxxxxxxx
+01.01.24, 10:03 - you: xxxxxxxxxxx
+01.01.24, 10:04 - me: xxxxxxxxxxxxxxxxxxxxx
+01.01.24, 10:05 - you: xxxxxxxxxxxx
+01.01.24, 10:06 - me: xxxxxxxxxxxxx
+01.01.24, 10:07 - you: xxxxxxxxxxxxxxx
+01.01.24, 10:08 - me: xxxxxxxxxxxxxxxxxxxxx
+01.01.24, 10:09 - you: xxxxxxxxxxxxxxxxxxxxxx
 
-01.01.24, 11:00 - me:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-01.01.24, 11:01 - you:xxxxxxxxxxxxxxxxxxx
-01.01.24, 11:02 - me:xxxxxxxxxxxxxxxxxxxxxxxxx
-01.01.24, 11:03 - you:xxxxxxxxxxxx
-01.01.24, 11:04 - me:xxxxxxxxxxxxxxxxx
-01.01.24, 11:05 - you:xxxxxxxxxxxxxxxxxxxx
-01.01.24, 11:06 - me:xxxxxxxxxxxxxxxxx
-01.01.24, 11:07 - you:xxxxxxxxxxxxxxxxxxxxxxx
-01.01.24, 11:08 - me:xxxxxxxxxxxxxxxxxx
-01.01.24, 11:09 - you:xxxxxxxxx
+01.01.24, 11:00 - me: xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+01.01.24, 11:01 - you: xxxxxxxxxxxxxxxxxx
+01.01.24, 11:02 - me: xxxxxxxxxxxxxxxxxxxxxxxx
+01.01.24, 11:03 - you: xxxxxxxxxxx
+01.01.24, 11:04 - me: xxxxxxxxxxxxxxxx
+01.01.24, 11:05 - you: xxxxxxxxxxxxxxxxxxx
+01.01.24, 11:06 - me: xxxxxxxxxxxxxxxx
+01.01.24, 11:07 - you: xxxxxxxxxxxxxxxxxxxxxx
+01.01.24, 11:08 - me: xxxxxxxxxxxxxxxxx
+01.01.24, 11:09 - you: xxxxxxxx
 
-02.01.24, 09:00 - me:xxxxxxxxxxxxxx
-02.01.24, 09:01 - you:xxxxxxxxxxxxxxxxxxxxxx
-02.01.24, 09:02 - me:xxxxxxxxxxxxxxxxxxxx
-02.01.24, 09:03 - you:xxxxxxxxxxxxxxxxxxx
-02.01.24, 09:04 - me:xxxxxxxxxxxxxxxxx
-02.01.24, 09:05 - you:xxxxxxxxxxxxxxxxxxxxxxxxxxxx
-02.01.24, 09:06 - me:xxxxxxxxxxxxxxxxxxx
-02.01.24, 09:07 - you:xxxxxxxxxxx
-02.01.24, 09:08 - me:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-02.01.24, 09:09 - you:xxxxxxxxx
+02.01.24, 09:00 - me: xxxxxxxxxxxxx
+02.01.24, 09:01 - you: xxxxxxxxxxxxxxxxxxxxx
+02.01.24, 09:02 - me: xxxxxxxxxxxxxxxxxxx
+02.01.24, 09:03 - you: xxxxxxxxxxxxxxxxxx
+02.01.24, 09:04 - me: xxxxxxxxxxxxxxxx
+02.01.24, 09:05 - you: xxxxxxxxxxxxxxxxxxxxxxxxxxx
+02.01.24, 09:06 - me: xxxxxxxxxxxxxxxxxx
+02.01.24, 09:07 - you: xxxxxxxxxx
+02.01.24, 09:08 - me: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+02.01.24, 09:09 - you: xxxxxxxx
 
-02.01.24, 12:00 - me:xxxxxxxxxxxxxxxxxxxxx
-02.01.24, 12:01 - you:xxxxxxxxxxxxxxxxxx
-02.01.24, 12:02 - me:xxxxxxxxxxxxxxxxxxxxxxxxxx
-02.01.24, 12:03 - you:xxxxxxxxxxxxxxxxxxxxxxxx
-02.01.24, 12:04 - me:xxxxxxxxxxxxxxxxxxxxxxxx
-02.01.24, 12:05 - you:xxxxxxxxxxxxx
-02.01.24, 12:06 - me:xxxxxxxxxxxxxxxx
-02.01.24, 12:07 - you:xxxxxxxxxxxxxxxxxx
-02.01.24, 12:08 - me:xxxxxxxxxxxxxxxxxxx
-02.01.24, 12:09 - you:xxxxxxxxxxxxxxxx
+02.01.24, 12:00 - me: xxxxxxxxxxxxxxxxxxxx
+02.01.24, 12:01 - you: xxxxxxxxxxxxxxxxx
+02.01.24, 12:02 - me: xxxxxxxxxxxxxxxxxxxxxxxxx
+02.01.24, 12:03 - you: xxxxxxxxxxxxxxxxxxxxxxx
+02.01.24, 12:04 - me: xxxxxxxxxxxxxxxxxxxxxxx
+02.01.24, 12:05 - you: xxxxxxxxxxxx
+02.01.24, 12:06 - me: xxxxxxxxxxxxxxx
+02.01.24, 12:07 - you: xxxxxxxxxxxxxxxxx
+02.01.24, 12:08 - me: xxxxxxxxxxxxxxxxxx
+02.01.24, 12:09 - you: xxxxxxxxxxxxxxx
 
-03.01.24, 18:00 - me:xxxxxxxxxxxxxxxxxxxxxx
-03.01.24, 18:01 - you:xxxxxxxxxxxxxxxxxxxxx
-03.01.24, 18:02 - me:xxxxxxxxxxxxxxxxxxxxx
-03.01.24, 18:03 - you:xxxxxxxxxxxx
-03.01.24, 18:04 - me:xxxxxxxxxxxxxxxxxxxxxxx
-03.01.24, 18:05 - you:xxxxxxxxxxxxx
-03.01.24, 18:06 - me:xxxxxxxxxxxxxxxxx
-03.01.24, 18:07 - you:xxxxxxxxxxxxxxx
-03.01.24, 18:08 - me:xxxxxxxxxxxxxxxxxxxxx
-03.01.24, 18:09 - you:xxxxxx
+03.01.24, 18:00 - me: xxxxxxxxxxxxxxxxxxxxx
+03.01.24, 18:01 - you: xxxxxxxxxxxxxxxxxxxx
+03.01.24, 18:02 - me: xxxxxxxxxxxxxxxxxxxx
+03.01.24, 18:03 - you: xxxxxxxxxxx
+03.01.24, 18:04 - me: xxxxxxxxxxxxxxxxxxxxxx
+03.01.24, 18:05 - you: xxxxxxxxxxxx
+03.01.24, 18:06 - me: xxxxxxxxxxxxxxxx
+03.01.24, 18:07 - you: xxxxxxxxxxxxxx
+03.01.24, 18:08 - me: xxxxxxxxxxxxxxxxxxxx
+03.01.24, 18:09 - you: xxxxx
 
-04.01.24, 09:00 - me:xxxxxxxxxxxxxxxxxxxx
-04.01.24, 09:01 - you:xxxxxxxxx
-04.01.24, 09:02 - me:xxxxxxxxxxxxxxxxxxxxxxx
-04.01.24, 09:03 - you:xxxxxxxxxxxxxxxxxxxxxx
-04.01.24, 09:04 - me:xxxxxxxxxxx
-04.01.24, 09:05 - you:xxxxxxxxxxxxxx
-04.01.24, 09:06 - me:xxxxxxxx
-04.01.24, 09:07 - you:xxxxxxxxxxxx
-04.01.24, 09:08 - me:xxxxxx
-04.01.24, 09:09 - you:xxxxxxx
+04.01.24, 09:00 - me: xxxxxxxxxxxxxxxxxxx
+04.01.24, 09:01 - you: xxxxxxxx
+04.01.24, 09:02 - me: xxxxxxxxxxxxxxxxxxxxxx
+04.01.24, 09:03 - you: xxxxxxxxxxxxxxxxxxxxx
+04.01.24, 09:04 - me: xxxxxxxxxx
+04.01.24, 09:05 - you: xxxxxxxxxxxxx
+04.01.24, 09:06 - me: xxxxxxx
+04.01.24, 09:07 - you: xxxxxxxxxxx
+04.01.24, 09:08 - me: xxxxx
+04.01.24, 09:09 - you: xxxxxx
 
-05.01.24, 20:00 - me:xxxxxxxxxxxxxxxxxxxxx
-05.01.24, 20:01 - you:xxxxxxxxxxxxxxxxxxxxxxxx
-05.01.24, 20:02 - me:xxxxxxxxxxxxxxxxxxx
-05.01.24, 20:03 - you:xxxxxxxxxxxxxxxxx
-05.01.24, 20:04 - me:xxxxxxxxxxxxxxxxxxx
-05.01.24, 20:05 - you:xxxxxxxxxxxxxxxxxxx
-05.01.24, 20:06 - me:xxxxxxxxxxxxxxxxxxxxxx
-05.01.24, 20:07 - you:xxxxxxxxxxxxx
-05.01.24, 20:08 - me:xxxxxxxxxxxxxxxxxxxx
-05.01.24, 20:09 - you:xxxxxxxxx
+05.01.24, 20:00 - me: xxxxxxxxxxxxxxxxxxxx
+05.01.24, 20:01 - you: xxxxxxxxxxxxxxxxxxxxxxx
+05.01.24, 20:02 - me: xxxxxxxxxxxxxxxxxx
+05.01.24, 20:03 - you: xxxxxxxxxxxxxxxx
+05.01.24, 20:04 - me: xxxxxxxxxxxxxxxxxx
+05.01.24, 20:05 - you: xxxxxxxxxxxxxxxxxx
+05.01.24, 20:06 - me: xxxxxxxxxxxxxxxxxxxxx
+05.01.24, 20:07 - you: xxxxxxxxxxxx
+05.01.24, 20:08 - me: xxxxxxxxxxxxxxxxxxx
+05.01.24, 20:09 - you: xxxxxxxx
 
-06.01.24, 10:00 - me:xxxxxxxxxxxxxx
-06.01.24, 10:01 - you:xxxxxxxxxxxxxxxxxxxxx
-06.01.24, 10:02 - me:xxxxxxxxxxxxxxxx
-06.01.24, 10:03 - you:xxxxxx
-06.01.24, 10:04 - me:xxxxxxxxxxxxxxxxxxx
-06.01.24, 10:05 - you:xxxxxx
-06.01.24, 10:06 - me:xxxxxxxxxxxxxxxxxxx
-06.01.24, 10:07 - you:xxxxxx
-06.01.24, 10:08 - me:xxxxxxxxxxxxxxxxx
-06.01.24, 10:09 - you:xxxxxx
+06.01.24, 10:00 - me: xxxxxxxxxxxxx
+06.01.24, 10:01 - you: xxxxxxxxxxxxxxxxxxxx
+06.01.24, 10:02 - me: xxxxxxxxxxxxxxx
+06.01.24, 10:03 - you: xxxxx
+06.01.24, 10:04 - me: xxxxxxxxxxxxxxxxxx
+06.01.24, 10:05 - you: xxxxx
+06.01.24, 10:06 - me: xxxxxxxxxxxxxxxxxx
+06.01.24, 10:07 - you: xxxxx
+06.01.24, 10:08 - me: xxxxxxxxxxxxxxxx
+06.01.24, 10:09 - you: xxxxx
 
-07.01.24, 21:00 - me:xxxxxxxxxxxxxxxxxxxxxx
-07.01.24, 21:01 - you:xxxxxxxxx
-07.01.24, 21:02 - me:xxxxxxxxxxxxxxxxxxxxxx
-07.01.24, 21:03 - you:xxxxxxxxx
-07.01.24, 21:04 - me:xxxxxxxxxxxxxxx
-07.01.24, 21:05 - you:xxxxx
-07.01.24, 21:06 - me:xxxxxxxxxxxxxxxxxxx
-07.01.24, 21:07 - you:xxxxxxxxxxxx
-07.01.24, 21:08 - me:xxxxxxxxxxxx
-07.01.24, 21:09 - you:xxxxxxxxx
+07.01.24, 21:00 - me: xxxxxxxxxxxxxxxxxxxxx
+07.01.24, 21:01 - you: xxxxxxxx
+07.01.24, 21:02 - me: xxxxxxxxxxxxxxxxxxxxx
+07.01.24, 21:03 - you: xxxxxxxx
+07.01.24, 21:04 - me: xxxxxxxxxxxxxx
+07.01.24, 21:05 - you: xxxx
+07.01.24, 21:06 - me: xxxxxxxxxxxxxxxxxx
+07.01.24, 21:07 - you: xxxxxxxxxxx
+07.01.24, 21:08 - me: xxxxxxxxxxx
+07.01.24, 21:09 - you: xxxxxxxx
